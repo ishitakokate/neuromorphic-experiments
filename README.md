@@ -21,6 +21,6 @@ Spike-timing-dependent plasticity implemented between two neurons. Demonstrates 
 - Jupyter Notebook
 
 ## Roadmap
-- [ ] Event-based vision with N-MNIST dataset
+- [x] Event-based vision with N-MNIST dataset
 - [ ] Larger STDP network with emergent memory
 - [ ] Intel Loihi 2 / Lava framework experiments
