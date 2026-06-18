@@ -35,4 +35,4 @@ Achieves biologically realistic firing rates through parameter tuning.
 ## Roadmap
 - [x] Event-based vision with N-MNIST dataset
 - [x] Larger STDP network with emergent memory
-- [ ] Intel Loihi 2 / Lava framework experiments
+- [x] Intel Loihi 2 / Lava framework experiments
