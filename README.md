@@ -25,6 +25,12 @@ A 500-neuron excitatory/inhibitory network with STDP learning. Explores E/I
 balance, runaway excitation, sparse coding, and stochastic network behaviour. 
 Achieves biologically realistic firing rates through parameter tuning.
 
+### 05 — Coincidence Detector
+A spiking circuit that fires only when two inputs arrive within a narrow 
+time window of each other. Explores the relationship between membrane time 
+constant (tau) and detection precision, modelling auditory sound-localisation 
+circuits found in the brain (medial superior olive).
+
 ## Tools & Frameworks
 - Python 3
 - Brian2
