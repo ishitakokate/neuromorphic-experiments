@@ -31,6 +31,21 @@ time window of each other. Explores the relationship between membrane time
 constant (tau) and detection precision, modelling auditory sound-localisation 
 circuits found in the brain (medial superior olive).
 
+### 06 — Lava LIF Neuron Exploration
+First experiments with Intel's Lava framework — the software stack used for 
+real Loihi 2 neuromorphic hardware. It innvestigates Lava's discrete timestep 
+behaviour, including a discovered one-step delay between membrane threshold 
+crossing and spike reporting, verified through direct voltage probing.
+
+### 07 — Lava Two-Neuron Network
+Connects two LIF neurons via a `Dense` synapse process, investigating 
+unexpected runaway firing behaviour through systematic voltage probing. 
+Discovers and documents the role of the `du` (current decay) parameter,
+revealing that `du=0` causes synaptic current to persist indefinitely 
+rather than decay, producing continuous firing once enough current 
+accumulates. This Demonstrates rigorous parameter characterisation through 
+direct measurement.
+
 ## Tools & Frameworks
 - Python 3
 - Brian2
