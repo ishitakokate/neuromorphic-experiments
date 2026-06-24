@@ -49,6 +49,15 @@ rather than decay, producing continuous firing once enough current
 accumulates. This Demonstrates rigorous parameter characterisation through 
 direct measurement.
 
+### 08 — Lava STDP Learning Attempt
+Attempts to implement STDP learning in Lava using `LoihiLearningRule` and 
+`LearningDense`. Documents a reproducible deadlock when connecting 
+post-synaptic spike feedback (`s_in_bap`) — confirmed as a known limitation 
+of Lava's process-based architecture for recurrent learning circuits via 
+official documentation. Demonstrates that feedforward-only connections 
+produce zero weight change, confirming `s_in_bap` is functionally necessary 
+for STDP despite the deadlock it triggers.
+
 ## Tools & Frameworks
 - Python 3
 - Brian2
