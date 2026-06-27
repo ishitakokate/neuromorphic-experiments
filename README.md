@@ -36,7 +36,7 @@ circuits found in the brain (medial superior olive).
 
 ### 06 — Lava LIF Neuron Exploration
 First experiments with Intel's Lava framework — the software stack used for 
-actual Loihi 2 neuromorphic hardware. It innvestigates Lava's discrete timestep 
+the actual Loihi 2 neuromorphic hardware. It innvestigates Lava's discrete timestep 
 behaviour, including a discovered one-step delay between membrane threshold 
 crossing and spike reporting, which is verified through direct voltage probing.
 
