@@ -58,6 +58,10 @@ official documentation. Demonstrates that feedforward-only connections
 produce zero weight change, confirming `s_in_bap` is functionally necessary 
 for STDP despite the deadlock it triggers.
 
+## Papers
+A running reading log of papers and reviews informing this work lives in 
+[`papers/reading_log.md`](papers/reading_log.md).
+
 ## Tools & Frameworks
 - Python 3
 - Brian2
