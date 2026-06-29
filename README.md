@@ -58,6 +58,14 @@ official documentation. Demonstrates that feedforward-only connections
 produce zero weight change, confirming `s_in_bap` is functionally necessary 
 for STDP despite the deadlock it triggers.
 
+### 09 — Reward-Modulated STDP
+Extends standard STDP with a global reward signal that gates whether spike-
+timing-based weight updates actually occur. Demonstrates that two equally 
+active pathways learn differently depending on reward, and shows reversal 
+learning — the network dynamically reallocates learning to a newly rewarded 
+pathway when reward contingencies flip mid-simulation. Directly inspired by 
+neuromodulated learning rules discussed in the reading log's first paper.
+
 ## Papers
 A running reading log of papers and reviews informing this work lives in 
 [`papers/reading_log.md`](papers/reading_log.md).
