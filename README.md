@@ -15,7 +15,7 @@ Leaky integrate-and-fire neuron model simulated in Brian2. Covers single neuron
 dynamics, rate coding, and a 100-neuron synaptically connected network.
 
 ### 02 — STDP Learning
-Spike-timing-dependent plasticity implemented between two neurons. Demonstrates 
+Spike-timing-dependent plasticity implemented between two neurons demonstrates 
 real-time synaptic weight change — a fundamental biological learning rule.
 
 ### 03 — Event Camera N-MNIST Pipeline
