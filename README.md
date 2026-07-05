@@ -66,6 +66,13 @@ learning — the network dynamically reallocates learning to a newly rewarded
 pathway when reward contingencies flip mid-simulation. Directly inspired by 
 neuromodulated learning rules discussed in the reading log's first paper.
 
+### 10 — Eligibility Traces
+Isolates and characterises the eligibility trace mechanism — the decaying 
+synaptic memory that bridges spike coincidences and delayed reward signals. 
+Demonstrates discrete time sampling behaviour, tau's control over the credit 
+assignment window, and cumulative trace amplification from multiple spikes. 
+Foundational for the delayed reward and reinforcement learning notebooks to follow.
+
 ## Papers
 A running reading log of papers and reviews informing this work lives in 
 [`papers/reading_log.md`](papers/reading_log.md).
