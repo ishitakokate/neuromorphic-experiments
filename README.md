@@ -73,6 +73,12 @@ Demonstrates discrete time sampling behaviour, tau's control over the credit
 assignment window, and cumulative trace amplification from multiple spikes. 
 Foundational for the delayed reward and reinforcement learning notebooks to follow.
 
+### 11 — Delayed Reward Learning
+Demonstrates temporal credit assignment — how learning degrades as the 
+delay between spike coincidence and reward arrival increases, shows the 
+1/e relationship between tau and learning at delay=tau, and compares 
+three tau values to show direct control over the credit assignment window, also resolves two discrete-time simulation artifacts encountered during development.
+
 ## Papers
 A running reading log of papers and reviews informing this work lives in 
 [`papers/reading_log.md`](papers/reading_log.md).
