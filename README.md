@@ -88,6 +88,14 @@ at the expected reward time. Documents a structural threshold fixed point
 discovered during parameter tuning, resolved through biologically realistic 
 stochastic noise.
 
+### 13 — Project Dopamine Phase 1: Reward Dysregulation
+Models dopamine receptor downregulation via adaptive firing thresholds in 
+two parallel spiking networks exposed to different reward schedules — 
+spaced naturalistic rewards vs engineered high-frequency variable-interval 
+micro-rewards. Quantifies sensitivity divergence: the dysregulated system 
+becomes 3x less responsive to identical stimuli. Phase 1 of an ongoing 
+independent research project exploring computational psychiatry in SNNs.
+
 ## Papers
 A running reading log of papers and reviews informing this work lives in 
 [`papers/reading_log.md`](papers/reading_log.md).
