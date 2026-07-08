@@ -79,6 +79,15 @@ delay between spike coincidence and reward arrival increases, shows the
 1/e relationship between tau and learning at delay=tau, and compares 
 three tau values to show direct control over the credit assignment window, also resolves two discrete-time simulation artifacts encountered during development.
 
+### 12 — Reward Prediction Error (Schultz Experiment)
+Reproduces Wolfram Schultz's classic dopamine experiment in a spiking 
+network across three phases: unpredicted reward drives dopamine firing; 
+after repeated cue-reward pairings, dopamine shifts to the predictive cue; 
+when reward is omitted, dopamine fires at the cue but shows reduced activity 
+at the expected reward time. Documents a structural threshold fixed point 
+discovered during parameter tuning, resolved through biologically realistic 
+stochastic noise.
+
 ## Papers
 A running reading log of papers and reviews informing this work lives in 
 [`papers/reading_log.md`](papers/reading_log.md).
