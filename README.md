@@ -92,7 +92,7 @@ stochastic noise.
 Models dopamine receptor downregulation via adaptive firing thresholds in 
 two parallel spiking networks exposed to different reward schedules — 
 spaced naturalistic rewards vs engineered high-frequency variable-interval 
-micro-rewards. Quantifies sensitivity divergence: the dysregulated system 
+micro-rewards. Also quantifies the sensitivity divergence: the dysregulated system 
 becomes 3x less responsive to identical stimuli. Phase 1 of an ongoing 
 independent research project exploring computational psychiatry in SNNs.
 
