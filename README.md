@@ -96,6 +96,14 @@ micro-rewards. Also quantifies the sensitivity divergence: the dysregulated syst
 becomes 3x less responsive to identical stimuli. Phase 1 of an ongoing 
 independent research project exploring computational psychiatry in SNNs.
 
+### 14 — Synaptic Consolidation
+Models the two-stage transition from fragile short-term plasticity to stable 
+long-term memory using a fast plastic component (decays without reinforcement) 
+and a slow stable component (persists indefinitely once written). Demonstrates 
+that consolidated memories completely resist active reversal signals, directly 
+explaining why dopamine dysregulation is hard to reverse — the foundation for 
+Project Dopamine Phase 2.
+
 ## Papers
 A running reading log of papers and reviews informing this work lives in 
 [`papers/reading_log.md`](papers/reading_log.md).
