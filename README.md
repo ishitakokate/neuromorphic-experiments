@@ -104,6 +104,15 @@ that consolidated memories completely resist active reversal signals, directly
 explaining why dopamine dysregulation is hard to reverse — the foundation for 
 Project Dopamine Phase 2.
 
+### 15 — Project Dopamine Phase 2: Recalibration & Intervention
+Tests three recovery strategies from a dysregulated state: abstinence, 
+healthy rewards, and continued dysregulation. Quantifies a 5.9x hysteresis 
+ratio — recovery takes nearly six times longer than dysregulation under 
+identical conditions. Also documents two honest null results: homeostatic 
+plasticity provides no meaningful recovery benefit (timescale mismatch), 
+and intervention timing produces negligible differences in this model 
+(threshold equilibrium reached too quickly). Phase 2 of Project Dopamine.
+
 ## Papers
 A running reading log of papers and reviews informing this work lives in 
 [`papers/reading_log.md`](papers/reading_log.md).
