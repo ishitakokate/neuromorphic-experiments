@@ -113,6 +113,17 @@ plasticity provides no meaningful recovery benefit (timescale mismatch),
 and intervention timing produces negligible differences in this model 
 (threshold equilibrium reached too quickly). Phase 2 of Project Dopamine.
 
+### 16 — Project Dopamine Phase 3: Beneficial Reward Engineering
+Systematically maps 35 reward schedule parameter combinations (interval × 
+variability) to identify conditions achieving high engagement without 
+sensitivity collapse. Discovers a counterintuitive finding: at moderate 
+intervals (200ms), HIGH variability preserves sensitivity better than low 
+variability. Identifies an optimal schedule (200ms, var=0.9) achieving 78% 
+of dysregulated engagement with 2.09x better sensitivity preservation — 
+answering Project Dopamine's core question: yes, a neuromorphic agent can 
+learn fast without getting fried. Completes the Project Dopamine arc across 
+notebooks 13-16.
+
 ## Papers
 A running reading log of papers and reviews informing this work lives in 
 [`papers/reading_log.md`](papers/reading_log.md).
