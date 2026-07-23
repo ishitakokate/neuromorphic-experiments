@@ -6,7 +6,7 @@ A collection of spiking neural network (SNN) simulations built from the ground u
 I'm an undergraduate ECE student researching neuromorphic hardware, SNNs, and edge AI. This repository documents my learning journey and experimental simulations.
 
 ## Status
-Actively maintained alongside undergraduate coursework — updated roughly weekly...
+Actively maintained alongside undergraduate coursework — updated roughly weekly
 
 ## Simulations
 
@@ -122,7 +122,7 @@ variability. Identifies an optimal schedule (200ms, var=0.9) achieving 78%
 of dysregulated engagement with 2.09x better sensitivity preservation,
 answering Project Dopamine's core question: yes, a neuromorphic agent can 
 learn fast without getting fried, and completes the Project Dopamine arc across 
-notebooks 13-16..                          
+notebooks 13-16.                         
 
 ## Papers
 A running reading log of papers and reviews informing this work lives in 
